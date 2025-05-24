@@ -139,10 +139,9 @@ The decrease in unemployment rates occurred because the expanded definition recl
 </div>
 
 **Plots:**
-
 <div align="center">
 
-![Quarterly Rates](path/to/quarterly_rates.png)
+![Quarterly Rates](quarterly_rates.png)
 
 </div>
 
