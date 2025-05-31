@@ -66,9 +66,11 @@ $$
 $$
 
 This is due to the derivative of:
+
 $$
 \left(\frac{1 - \rho}{\rho}\right)
 $$
+
 which is negative for all ρ > 0.
 
 ---
